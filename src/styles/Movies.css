@@ -1,0 +1,12 @@
+.movies__title {
+  background-color: white;
+  padding: 2%;
+}
+
+.movies__container {
+  display: flex;
+  flex-direction: row;
+  background-color: #141414;
+  /* max-width: 40%; */
+  /* display: inline-block; */
+}

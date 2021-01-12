@@ -1,0 +1,46 @@
+.header {
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+}
+
+.header__title {
+  color: rgb(101, 78, 109);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 4px;
+  position: fixed;
+  top: 4px;
+  float: left;
+}
+.header__userInfo {
+  color: white;
+  position: fixed;
+  display: flex;
+  right: 5px;
+  top: 5px;
+}
+
+.header__signOutButton {
+  border: 1px solid #312449;
+  border-radius: 5px;
+  background: linear-gradient(to bottom, #312449, rgb(101, 78, 109));
+  color: white;
+  font-weight: 900;
+  font-size: 15px !important;
+  line-height: 25px !important;
+  width: 100px;
+  height: 40px;
+}
+
+.header__userEmailLineOne {
+  margin-top: 5px;
+  margin-right: 5px;
+  font-size: 15px;
+  font-weight: 800;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.header__userEmailLineTwo {
+  font-size: 12px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,26 @@
+body {
+  background-color: #141414;
+  /* background-image: url(https://i.pinimg.com/originals/24/82/61/248261b8886b1067a9db553dc2c18e18.jpg); */
+  /* background-repeat: no-repeat; */
+}
+
+.app__body {
+  padding-left: 8%;
+  padding-right: 8%;
+  text-align: left;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.column__left {
+  flex: 1;
+  margin: 10px;
+}
+
+.column__right {
+  flex: 1;
+  margin: 10px;
+}

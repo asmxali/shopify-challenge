@@ -1,0 +1,22 @@
+.movie {
+  color: white;
+  padding: 2%;
+}
+
+.movie__image > img {
+  width: 145px; /* width of container */
+  height: 120px; /* height of container */
+  object-fit: cover;
+  object-position: 20% 10%; /* try 20px 10px */
+  border: 2px solid white;
+  border-radius: 2px;
+}
+.movie__title {
+  font-size: 12px;
+}
+.movie__yearReleased {
+  font-size: 13px;
+}
+.movie__button > button {
+  width: 145px;
+}
