@@ -1,5 +1,5 @@
 # Shopify Challenge
-- (I had to delete my old shopify-challenge repo and upload my project from my local version so that's why only 1 commit is showing)
+(I had to delete my old shopify-challenge repo and upload my project from my local version so that's why only the last few commits are showing)
 This application was developed for the UX Developer Intern & Web Developer Intern Challenge - Summer 2021. This webpage can search OMDB for movies, and allow the user to save their favourite films they feel should be up for nomination. When they've selected 5 nominees they should be notified they're finished.
 
 - Front-end web development built using React & Javascript
