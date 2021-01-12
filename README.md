@@ -22,10 +22,10 @@ This application was developed for the UX Developer Intern & Web Developer Inter
 - Display a banner when the user has 5 nominations.
   ![](https://github.com/asmxali/shopify-challenge/blob/master/gifs/nomination_demo.gif)
 
-### Login Functionaily
+### User Authentication Functionaily
 
 - User can be created and signed in once logged out
-  ![](https://github.com/asmxali/shopify-challenge/blob/master/gifs/authetication_demo.gif)
+  ![](https://github.com/asmxali/shopify-challenge/blob/master/gifs/authentication_demo.gif)
 
 # Getting Started with Create React App
 
