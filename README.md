@@ -1,4 +1,5 @@
-DISCLAIMER: Deleted my old shopify-challenge repo and re-uploaded my project from my local version so that's why only the last few commits are showing
+DISCLAIMER: Deleted my old shopify-challenge repo and re-uploaded my project from my local version so that's why only the last few commits are showing.
+
 To see the steps I took to build this web application, you can view my breakdown here: https://docs.google.com/document/d/1vlqskC3IpwjAaXG4-wVuFHSGQ7MnJz2ou3kE3sHmNd8/edit?usp=sharing
 
 # Shopify Challenge
